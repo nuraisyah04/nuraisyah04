@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nuraisyah Binti Mohd Zikre
 ==================================================================================================================================================
-
+* I am a first year student Bachelor in Computer Science (Data Engineering) at Universiti Teknologi Malaysia (UTM).
 * 🌍  I'm based in Skudai, Johor
 * ✉️  You can contact me at [nuraisyahmohdzikre@gmail.com](mailto:nuraisyahmohdzikre@gmail.com)
 * 🧠  I'm learning C++ Programming Language
