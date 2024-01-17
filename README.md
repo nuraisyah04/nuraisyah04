@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================================
 * I am a first year student Bachelor in Computer Science (Data Engineering) at Universiti Teknologi Malaysia (UTM).
 * 🌍  I'm based in Skudai, Johor
-* View my e-Portfolio in order to get knowing me better: http://127.0.0.1:5500/index.html 
+* View my e-Portfolio in order to get knowing me better: [http://127.0.0.1:5500/index.html ](https://nuraisyah04.github.io/)
 * ✉️  You can contact me at [nuraisyahmohdzikre@gmail.com](mailto:nuraisyahmohdzikre@gmail.com)
 * 🧠  I'm learning C++ Programming Language
 
