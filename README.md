@@ -4,7 +4,7 @@ I am very eager to learn new things especially on things tech world which it is 
 
 * I am a first year student Bachelor in Computer Science (Data Engineering) at Universiti Teknologi Malaysia (UTM).
 * 🌍  I'm based in Tumpat , Kelantan.
-* View my e-Portfolio in order to get knowing me better: https://nuraisyah04.github.io/ 
+* View my e-Portfolio in order to get knowing me better: [https://nuraisyah04.github.io/](https://nuraisyah04.github.io/) 
 * ✉️  You can contact me at [nuraisyahmohdzikre@gmail.com](mailto:nuraisyahmohdzikre@gmail.com)
 * 🧠  I'm learning C++ Programming Language
 
