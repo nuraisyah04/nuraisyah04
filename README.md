@@ -42,11 +42,11 @@ I am a Bachelor of Computer Science (Data Engineering) student with a strong pas
 
 ## 📃 Certifications
 
-* 🎓 
-* ☁️ 
-* 🤖 
-* 🧠 
-* 🎨 
+* 🎓 **Microsoft Certified:** [Azure Data Fundamentals](https://www.credly.com/badges/d985e8fd-d0f4-4fe4-8736-107110ddb819/linked_in_profile)
+* ☁️ **AWS Academy Graduate:** [Cloud Foundations](https://www.credly.com/badges/2ec5accc-7c99-44ab-901d-e98a7d71ee45/linked_in_profile)
+* 🤖 **IBM SkillsBuild & CISCO:** [AI Fundamentals](https://www.credly.com/badges/203916f2-e2b6-4353-a548-eddb2d2033dd/linked_in_profile)
+* 🧠 **IBM:** [Artificial Intelligence Fundamentals](https://www.credly.com/badges/6f6b0e71-ea6c-458b-87a0-9ea6737ead6f/linked_in_profile)
+
 ---
 
 ## 📊 GitHub Stats
