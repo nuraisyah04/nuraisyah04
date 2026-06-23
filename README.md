@@ -1,4 +1,4 @@
-# Hi, I'm Nuraisyah Binti Mohd Zikre   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi, I'm ![Nuraisyah Binti Mohd Zikre] (file:///C:/Users/LENOVO/Downloads/gemini-code-1782175568834.html#projects)   ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### 🎓 Data Engineering Student at Universiti Teknologi Malaysia
 📍 *Based in Skudai, Johor, Malaysia*
